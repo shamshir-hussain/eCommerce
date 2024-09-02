@@ -4,6 +4,8 @@
 
 This is an E-commerce website built using **Vite** and **Vanilla JavaScript**. The application features a responsive design, cart functionality, and a custom API for fetching product details. It is deployed on **Vercel** and includes user-friendly features such as adding/removing products from the cart and adjusting product quantities.
 
+### [View Deployed Page](https://ecommerce-eta-seven-82.vercel.app/)
+
 ## Features
 
 - **Responsive Design**: The website adapts to various screen sizes for an optimal user experience.
