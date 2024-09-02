@@ -64,10 +64,6 @@ The application is deployed on Vercel. You can view the live version at [https:/
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or features.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ## Acknowledgments
 
 - Thanks to the Vite community for their support and resources.
